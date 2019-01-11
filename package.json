@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Mateusz Pokora <vrael560@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "immutable": "^4.0.0-rc.12",
+    "ramda": "^0.26.1",
+    "sinon": "^7.2.2",
+    "tape": "^4.9.2"
+  }
 }
